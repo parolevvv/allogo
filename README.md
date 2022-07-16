@@ -1,0 +1,2 @@
+# allogo
+Golang play ground
